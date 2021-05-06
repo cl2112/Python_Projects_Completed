@@ -1,19 +1,20 @@
-This is a sample repo that each student ought to create for themselves on GitHub to showcase their three projects from the semester.
-Student Name
-Project #1
+This repo contains links to the python projects I completed for the python programming class during the spring 2021 semester at Kean University. 
+# Christian Liguori
 
-    http://eve.kean.edu/~myname/MyProject1.html
+## Project #1
 
-    Description: My personal website
+    https://github.com/cl2112/CPS_3320_Project_1
 
-Project #2
+    Description: Uses the pandas library to read and organize data to test whether health care services or financial services were targeted more by hacks.
 
-    http://eve.kean.edu/~myname/MyProject2.html
+## Project #2
 
-    Description: A front-end prototype of an E-commerce website
+    https://github.com/cl2112/CPS_3320_Project_2
 
-Project #3
+    Description: A showcase exploring the Arrow, Blinker, and Loguru python libraries. 
 
-    http://eve.kean.edu/~myname/MyProject3.html
+## Project #3
 
-    Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+    https://github.com/cl2112/CPS_3320_Project_3
+
+    Description: Scrapes data from different government websites, parses it and the displays it in a GUI. 
