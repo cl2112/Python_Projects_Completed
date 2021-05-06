@@ -11,10 +11,10 @@ Description: Uses the pandas library to read and organize data to test whether h
 
 https://github.com/cl2112/CPS_3320_Project_2
 
-Description: A showcase exploring the Arrow, Blinker, and Loguru python libraries. 
+Description: A showcase of different programs exploring the Arrow, Blinker, and Loguru python libraries. 
 
 ## Project #3
 
 https://github.com/cl2112/CPS_3320_Project_3
 
-Description: Scrapes data from different government websites, parses it and the displays it in a GUI. 
+Description: A program that helps citizens get informed about local government by scraping data from different government websites, parsing it and then displaying it in a GUI. 
